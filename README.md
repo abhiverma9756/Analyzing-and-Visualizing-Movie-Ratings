@@ -191,8 +191,8 @@ Through this project, I learned how to:
 
 If you found this project helpful, feel free to connect with me and explore more of my work.
 
-- LinkedIn: https://www.linkedin.com/in/your-linkedin
-- GitHub: https://github.com/your-username
+- LinkedIn: www.linkedin.com/in/abhishek-kumar-780872299
+- GitHub: https://github.com/abhiverma9756
 
 ---
 
